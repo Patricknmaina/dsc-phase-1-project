@@ -7,3 +7,8 @@ data/Aviation_Data_Cleaned.csv
 
 # Zone Identifiers
 *.Identifier
+
+# Git attribute file
+.gitattributes
+
+
