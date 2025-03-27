@@ -11,4 +11,7 @@ data/Aviation_Data_Cleaned.csv
 # Git attribute file
 .gitattributes
 
+# vscode folder
+.vscode
+
 
