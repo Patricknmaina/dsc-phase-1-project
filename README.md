@@ -55,7 +55,7 @@ The [Aviation Accident Database & Synopses](https://www.kaggle.com/datasets/khsa
 5. __Tableau Interactive Dashboard__
     - An interactive dashboard developed on Tableau based on the cleaned Aviation dataset.
     * This plot gives more insights into various aspects of the data, such as `Aircraft Damage by Number of Engines`, `Total Fatal Injuries & Uninjured by Phase of Flight`, `Total Fatal Injuries by Country`, etc.
-    - From this dashboard, business stakeholders are able to draw valuable insights on trends in aviation incidents, and take measures to mitigate the risks involves.
+    - From this dashboard, business stakeholders are able to draw valuable insights on trends in aviation incidents, and take measures to mitigate the risks involved.
 
 ![Tableau Interactive Dashboard](images/Tableau_dashboard.png)
 
